@@ -7,7 +7,7 @@
   "projectName": "Empty",
   "projectDescription": "A simple empty boilerplate for a fresh start",
   "publishedId": null,
-  "serverHostName": null,
+  "serverHostname": null,
   "serverPort": null,
   "templateDirectory": "templates",
   "templateDefaultLayout": "layout",
